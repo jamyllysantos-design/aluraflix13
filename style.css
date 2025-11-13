@@ -16,3 +16,15 @@ header{
 margin: 2px; ;
 padding: 10px;
 color: blue;
+.chamada{
+    background: coral
+    padding: 80px;
+    display:flgx;
+    justify-content:center;
+}
+.chamada-texto{
+margin-right:8%;
+}
+img{
+    height:200px;
+}
